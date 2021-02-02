@@ -4,5 +4,7 @@ Freddy Vega tiene 32 años y nació en colombia
 Y esta tambien es la historia de Olga Montoya, la educadora más linda del mundo!
 Hoy hablaremos de su vida. y obra maestra.
 
+
 Hoy seguiré estudiando git.
 
+Olga está trabajando en este proyecto
